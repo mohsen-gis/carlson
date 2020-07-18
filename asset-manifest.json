@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carlson/static/css/main.5f361e03.chunk.css",
+    "main.js": "/carlson/static/js/main.020c9fbd.chunk.js",
+    "main.js.map": "/carlson/static/js/main.020c9fbd.chunk.js.map",
+    "runtime-main.js": "/carlson/static/js/runtime-main.a6b2abdb.js",
+    "runtime-main.js.map": "/carlson/static/js/runtime-main.a6b2abdb.js.map",
+    "static/js/2.b09c4a2d.chunk.js": "/carlson/static/js/2.b09c4a2d.chunk.js",
+    "static/js/2.b09c4a2d.chunk.js.map": "/carlson/static/js/2.b09c4a2d.chunk.js.map",
+    "index.html": "/carlson/index.html",
+    "precache-manifest.5b6a041c8e8bb8b52ce6c9cdc6695d9f.js": "/carlson/precache-manifest.5b6a041c8e8bb8b52ce6c9cdc6695d9f.js",
+    "service-worker.js": "/carlson/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/carlson/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b09c4a2d.chunk.js.LICENSE.txt": "/carlson/static/js/2.b09c4a2d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/carlson/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6b2abdb.js",
+    "static/js/2.b09c4a2d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.020c9fbd.chunk.js"
+  ]
+}
